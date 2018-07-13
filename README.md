@@ -1,2 +1,2 @@
 # hello-world
-CB First Repository
+Hello my name is Carlton Buford and I am the Creator of the Economics of the 100%
